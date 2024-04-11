@@ -4,10 +4,11 @@
 
 ## Tools Used
 
-- As a personal preference, I use Python modules that include:
--- BeautifulSoup: to parse ***HTML*** and ***XML*** documents, such that I extract data from the websites.
--- requests: to make specified HTTP requests to given URLS
--- Selenium: to provide umbrella for automating web browsers. Enables interaction with web browsers, distributing browser allocation and implememnting W3C WebDriver Specificattion.
+As a personal preference, I use Python modules that include:
+
+- BeautifulSoup: to parse ***HTML*** and ***XML*** documents, such that I extract data from the websites.
+- requests: to make specified HTTP requests to given URLS
+- Selenium: to provide umbrella for automating web browsers. Enables interaction with web browsers, distributing browser allocation and implememnting W3C WebDriver Specificattion.
 
 
 ### Future Goal on Web Scrapping
